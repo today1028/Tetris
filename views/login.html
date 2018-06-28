@@ -1,0 +1,13 @@
+{% extends 'layout.html' %}
+
+{% block title %}Login Page{% endblock %}
+
+{% block content %}
+  <h1>Login Page</h1>
+  <p></p>
+  <form action='/users' method='get'>
+    <p> ID <input type='text' name='id' value={{ posts.account }}></p>
+    <p> PW <input type='text' name='pw'></p>
+    <p><input type='submit' value='Login'></p>
+  </form>
+{% endblock %}

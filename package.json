@@ -1,0 +1,32 @@
+{
+  "private": true,
+  "name": "tetris",
+  "version": "0.0.1",
+  "description": "웹에서 여러 플레이어가 즐길 수 있는 테트리스 게임",
+  "main": "index.js",
+  "dependencies": {
+    "config": "^1.30.0",
+    "koa": "^2.5.1",
+    "koa-body": "^4.0.4",
+    "koa-json": "^2.0.2",
+    "koa-router": "^7.4.0",
+    "koa-views": "^6.1.4",
+    "mysql": "^2.15.0",
+    "swig": "^1.4.2",
+    "winston": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeriousMan-NJ/Tetris.git"
+  },
+  "author": "ywshin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SeriousMan-NJ/Tetris/issues"
+  },
+  "homepage": "https://github.com/SeriousMan-NJ/Tetris#readme"
+}
