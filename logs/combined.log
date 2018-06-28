@@ -1,0 +1,21 @@
+{"message":"Listening to port 3000","level":"info"}
+{"message":"::1 [2018-06-28T13:37:29.269Z] \"GET /api/v1/users\" 200","level":"info"}
+{"message":"Listening to port 3000","level":"info"}
+{"message":"::1 [2018-06-28T14:34:52.706Z] \"GET /api/v1/users\" 200","level":"info"}
+{"message":"Listening to port 3000","level":"info"}
+{"message":"::1 [2018-06-28T14:59:58.475Z] \"GET /api/v1/users\" 404","level":"info"}
+{"message":"Listening to port 3000","level":"info"}
+{"message":"::1 [2018-06-28T15:00:54.148Z] \"GET /api/v1/users\" 404","level":"info"}
+{"message":"::1 [2018-06-28T15:01:00.718Z] \"GET /api/v1/users\" 404","level":"info"}
+{"message":"::1 [2018-06-28T15:01:01.244Z] \"GET /api/v1/users\" 404","level":"info"}
+{"message":"Listening to port 3000","level":"info"}
+{"message":"::1 [2018-06-28T15:02:17.051Z] \"GET /api/v1/users\" 404","level":"info"}
+{"message":"Listening to port 3000","level":"info"}
+{"message":"Listening to port 3000","level":"info"}
+{"message":"::1 [2018-06-28T15:06:27.830Z] \"GET /api/v1/users\" 404","level":"info"}
+{"message":"Listening to port 3000","level":"info"}
+{"message":"Listening to port 3000","level":"info"}
+{"message":"Listening to port 3000","level":"info"}
+{"message":"::1 [2018-06-28T15:19:03.376Z] \"GET /api/v1/users\" 200","level":"info"}
+{"message":"Listening to port 3000","level":"info"}
+{"message":"::1 [2018-06-28T15:27:24.961Z] \"GET /api/v1/users\" 200","level":"info"}
